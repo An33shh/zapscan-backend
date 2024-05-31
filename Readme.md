@@ -2,6 +2,8 @@
 
 ZapScan is a powerful web vulnerability scanner built with [FastAPI](https://fastapi.tiangolo.com/) and [OWASP ZAP](https://www.zaproxy.org/). It automates the process of identifying common security vulnerabilities in web applications, helping developers and security professionals safeguard their websites against potential threats.
 
+## Link to Frontend Repository - https://github.com/An33shh/zapscan-frontend
+
 ## Key Features 🚀
 
 - **Automated Scanning:** Easily scan any website for common vulnerabilities.
